@@ -1,0 +1,15 @@
+{C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorTestBench.v} {1 {vlog -work work -stats=none {C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorTestBench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module procesadorTestBench
+
+Top level modules:
+	procesadorTestBench
+
+} {} {}} {C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorVonNeumann.v} {1 {vlog -work work -stats=none {C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorVonNeumann.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module procesadorVonNeumann
+
+Top level modules:
+	procesadorVonNeumann
+
+} {} {}}

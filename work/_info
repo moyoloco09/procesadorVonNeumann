@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/moych/OneDrive/Escritorio
+vprocesadorTestBench
+Z0 !s110 1716148714
+!i10b 1
+!s100 TXlOC`46:miX@4ahSdZfQ3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I70;jBbc;5<9=5fU;khfOR0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog
+w1716081255
+8C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorTestBench.v
+FC:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorTestBench.v
+!i122 59
+L0 1 79
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1716148714.000000
+!s107 C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorTestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorTestBench.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+nprocesador@test@bench
+vprocesadorVonNeumann
+R0
+!i10b 1
+!s100 VJ[O0]cin>@5cMeA<gQ[G2
+R1
+I]dgXC]S7Q>d:]jah62[=J3
+R2
+R3
+w1716081250
+8C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorVonNeumann.v
+FC:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorVonNeumann.v
+!i122 58
+L0 1 93
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorVonNeumann.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorVonNeumann.v|
+!i113 1
+R6
+R7
+nprocesador@von@neumann

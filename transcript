@@ -1,0 +1,51 @@
+# Reading pref.tcl
+# OpenFile {C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/ProcesadorVonNeumann.mpf}
+# Loading project ProcesadorVonNeumann
+# Compile of procesadorVonNeumann.v was successful.
+# Compile of procesadorTestBench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.procesadorTestBench
+# vsim -gui work.procesadorTestBench 
+# Start time: 13:43:52 on May 19,2024
+# Loading work.procesadorTestBench
+# Loading work.procesadorVonNeumann
+add wave sim:/procesadorTestBench/*
+run
+# acumulador =    0, 0
+# acumulador =    5, 371
+# acumulador =   20, 373
+# acumulador =   12, 377
+# acumulador =   36, 379
+# acumulador =    6, 381
+# acumulador =    1, 383
+# acumulador =    0, 385
+# acumulador =    1, 387
+# acumulador =    0, 389
+# acumulador = 4080, 391
+# acumulador =    6, 397
+# acumulador =    4, 399
+# acumulador =   30, 401
+# acumulador =    7, 403
+# acumulador =    5, 497
+# acumulador =   20, 499
+# acumulador =   12, 503
+# acumulador =   36, 505
+# acumulador =    6, 507
+# acumulador =    1, 509
+# acumulador =    0, 511
+# acumulador =    1, 513
+# acumulador =    0, 515
+# acumulador = 4080, 517
+# acumulador =    6, 523
+# acumulador =    4, 525
+# acumulador =   30, 527
+# acumulador =    7, 529
+# ** Note: $stop    : C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorTestBench.v(71)
+#    Time: 572 ps  Iteration: 0  Instance: /procesadorTestBench
+# Break in Module procesadorTestBench at C:/Users/moych/OneDrive/Escritorio/Arquitectura de Computadoras/Proyecto/Verilog/procesadorTestBench.v line 71
+quit -sim
+# End time: 13:58:33 on May 19,2024, Elapsed time: 0:14:41
+# Errors: 0, Warnings: 2
+# Compile of procesadorVonNeumann.v was successful.
+# Compile of procesadorTestBench.v was successful.
+# 2 compiles, 0 failed with no errors.
